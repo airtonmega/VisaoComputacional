@@ -1,0 +1,7 @@
+numpy
+opencv-python-headless
+torch
+torchvision
+tensorflow
+scikit-learn
+Flask

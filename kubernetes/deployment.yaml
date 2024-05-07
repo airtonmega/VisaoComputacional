@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: trafficvision-deployment
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: trafficvision
+  template:
+    metadata:
+      labels:
+        app: trafficvision
+    spec:
+      containers:
+      - name: trafficvision
+        image: trafficvision:latest
+        ports:
+        - containerPort: 5000
