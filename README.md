@@ -19,12 +19,12 @@ Então, pessoal, o Visão de Tráfego é um projeto super legal que eu fiz para 
 Se você está interessado em tecnologia e quer ajudar ou aprender mais sobre como esses sistemas funcionam, este projeto é perfeito para você! Sinta-se à vontade para clonar o repositório, brincar com o código e até mesmo contribuir com suas próprias ideias!
 
 ## Como começar?
-- **Clone o repositório**: `git clone https://github.com/airtonmega/VisaoDeTrafego.git`
+- **Clone o repositório**: `git clone https://github.com/airtonmega/VisaoComputacional.git`
 - **Instale as dependências**: Execute `pip install -r requirements.txt` no seu terminal.
 - **Rode o projeto**: Execute `python src/main.py` e veja a mágica acontecer!
 
 ## Dúvidas ou problemas?
-Se tiver alguma dúvida ou problema, pode abrir uma issue aqui no GitHub que eu ou alguém da comunidade tentará ajudar o mais rápido possível.
+Se tiver alguma dúvida ou problema, pode abrir uma issue aqui no GitHub que eu ajudar o mais rápido possível.
 
 Valeu, pessoal! Bora fazer esse tráfego fluir melhor com tecnologia! 🚀
 
